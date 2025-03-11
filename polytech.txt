@@ -10,4 +10,4 @@ try commit
 
 conflict try - annie
 conflict try - rose 
-chicken
+conflic try - kal
