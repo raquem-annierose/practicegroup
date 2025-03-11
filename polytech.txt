@@ -9,10 +9,5 @@ zyyy
 try commit
 
 conflict try - annie
-<<<<<<< HEAD
 conflict try -zyra
 conflict try - rose 
-=======
-conflict try - rose 
-conflic try - kal
->>>>>>> b784e9954e2dd904035adca665ec920ea925520a
