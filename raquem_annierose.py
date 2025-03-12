@@ -8,3 +8,4 @@ print("WELCOME TO THE TEAM -ZYRA")
 
 print("_______________")
 print("hello annie! - kal")
+print("Have a nice day, annie! - mikee")
