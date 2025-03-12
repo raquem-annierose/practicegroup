@@ -5,7 +5,8 @@ print("zyrajoyniones@iskolarngbayan.pup.edu.ph")
 
 print("Welcome to the team -keith")
 
-print("Welcome to the Team - mikee")
+print("\n Welcome to the Team - mikee")
+print("Glad to be on the team with you! -Annie")
 
 print("_______________")
 print("hello zyra! - kal")
