@@ -5,4 +5,7 @@ print("annierosesraquem@iskolarngbayan.pup.edu.ph")
 
 print("welcome to the team, annie! -kal")
 print("WELCOME TO THE TEAM -ZYRA")
+
+print("_______________")
+print("hello annie! - kal")
 print("Good morning -Zyra")
